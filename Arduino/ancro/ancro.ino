@@ -241,8 +241,8 @@ void loop()
 
         // calc x and y to broadcast with tf
 
-        y += pos_average_mm_diff * sin(theta);
-        x += pos_average_mm_diff * cos(theta);
+        y += pos_average_mm_diff * sin(theta + phi/2);
+        x += pos_average_mm_diff * cos(theta + phi/2);
 
         // *** broadcast odom->base_link transform with tf ***
 
