@@ -1,4 +1,4 @@
-# ancro: Raspberry Pi 4 and Nvidia Jetson Nano Setup Guide
+# ANCRO (Autonomous Navigation and Communication Robot): Raspberry Pi 4 and Nvidia Jetson Nano Setup Guide
 
 ## Raspberry Pi 4 Setup
 
